@@ -1,0 +1,14 @@
+{
+  "name": "express_routing",
+  "version": "1.0.0",
+  "description": "Using Express JS as a lightweight, node.js web framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Bryant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
